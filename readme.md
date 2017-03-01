@@ -9,3 +9,8 @@ NOTE: Tried flex at first, but ended up using float for the footer.
 Challenge #1.2: Make sure your project is safe! Create a git repository containing your project files and upload it to Github. Goal #1.2: Submit your Github URL below.
 
 COMPLETED
+
+Adventure Mode
+Challenge #2.1: Let's practice writing some custom HTML as well. Follow the pattern in index.html and add 3 more Octocats to your web page. Use the Octodex at http://octodex.github.com if you need some images, or draw your own and include them in your Github repository! Goal #2.1: Submit your updated Github URL below.
+
+COMPLETED
