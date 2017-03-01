@@ -19,3 +19,5 @@ Epic Mode
 Challenge #3.1: Try making your web page responsive when the browser is resized. Here's a hint: consider what CSS rules you know that determine how many items are displayed inline. Goal #3.1: Submit your updated Github URL below.
 
 COMPLETED
+
+BONUS: Added bullshit triangle

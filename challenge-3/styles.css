@@ -16,25 +16,50 @@
 	margin-top: 20px;
 }
 
+.image-footer:after {
+	content:"";
+	width: 0; 
+  	height: 0; 
+  	border-left: 10px solid transparent;
+  	border-right: 10px solid transparent;
+    border-top: 10px solid #D6D6D6;
+    position:relative;
+    bottom: 15px;
+    right:5px;
+    
+}
 .authors img {
-	width:40px;
-	display: inline-block;
-	float: right;
+	width:30px;
 }
 
+/*
+.authors:before {
+	content:"";
+	width: 0; 
+  	height: 0; 
+  	border-left: 10px solid transparent;
+  	border-right: 10px solid transparent;
+    border-top: 10px solid #D6D6D6;
+    position:relative;
+    bottom:15px;
+    left:10px;
+}
+*/
 .image-footer {
 	max-width:500px;
 	min-width:300px;
 	height: 40px;
+	display: flex;
 	border-bottom:solid 1px #D6D6D6;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	line-height: 40px; 
 }
 
+
 .image-number {
 	color: #D6D6D6;
-	float:left;
+	flex-grow: 3;
 	
 }
 
@@ -44,7 +69,8 @@
 
 .image-caption {
 	display: flex;
-	float: right;
+	position:relative;
+	left:20px;
 }
 
 span {
