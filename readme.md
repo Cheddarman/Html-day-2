@@ -14,3 +14,8 @@ Adventure Mode
 Challenge #2.1: Let's practice writing some custom HTML as well. Follow the pattern in index.html and add 3 more Octocats to your web page. Use the Octodex at http://octodex.github.com if you need some images, or draw your own and include them in your Github repository! Goal #2.1: Submit your updated Github URL below.
 
 COMPLETED
+
+Epic Mode
+Challenge #3.1: Try making your web page responsive when the browser is resized. Here's a hint: consider what CSS rules you know that determine how many items are displayed inline. Goal #3.1: Submit your updated Github URL below.
+
+COMPLETED
